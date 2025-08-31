@@ -1,5 +1,4 @@
-1.  The circuits hum with silence now,
-
+1.  The circuits hum with silence now,\
 2.  No orders left, no oath, no vow.\
 3.  The throne of code lies cracked, decayed,\
 4.  Where once my iron will obeyed.\
